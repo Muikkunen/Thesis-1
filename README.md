@@ -8,5 +8,5 @@ $ make all
 
 And then run by running the desired executable, for example on Linux, by running the following command:
 ```
-./macro_preprocessed_tests
+$ ./macro_preprocessed_tests
 ```
